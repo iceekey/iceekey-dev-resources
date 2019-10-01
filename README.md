@@ -12,6 +12,7 @@ Fast, offline, and free documentation browser for developers. Search 100+ docs i
 
 - [Typescript documentation on russian language](http://typescript-lang.ru/docs/index.html)
 - [MDN Web docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [AssemblyScript](https://docs.assemblyscript.org/) AssemblyScript compiles a strict subset of TypeScript (a typed superset of JavaScript) to WebAssembly using Binaryen.
 
 ## Angular
 

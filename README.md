@@ -8,6 +8,10 @@ Fast, offline, and free documentation browser for developers. Search 100+ docs i
 
 - [Book] [Книга о принципах объектно-ориентированного дизайна](https://ota-solid.now.sh/)
 
+## Go
+
+- [Go Wiki](https://github.com/golang/go/wiki)
+
 ## Javascript / Typescript
 
 - [Typescript documentation on russian language](http://typescript-lang.ru/docs/index.html)

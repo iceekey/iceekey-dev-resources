@@ -1,4 +1,4 @@
-# Collection of resources I use to code and learn
+# Collection of resources
 
 ## [DevDocs](https://devdocs.io/)
 
@@ -6,7 +6,7 @@ Fast, offline, and free documentation browser for developers. Search 100+ docs i
 
 ## Development
 
-- [Книга о принципах объектно-ориентированного дизайна](https://ota-solid.now.sh/)
+- [Book] [Книга о принципах объектно-ориентированного дизайна](https://ota-solid.now.sh/)
 
 ## Javascript / Typescript
 
